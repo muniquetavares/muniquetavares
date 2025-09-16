@@ -12,6 +12,8 @@ Programming Languages: Python, SQL, Java, JavaScript, Visual C#, Bash, PowerShel
 an Android application facilitating buying and selling household items in Metro Vancouver.
 - Soccer Match Management System: Designed and developed a soccer match management system using relational 
 database principles to organize and manage team, player, match, tournament, and sponsor information.
+- Superstore Sales Analysis in Tableau: Developed interactive dashboards for Superstore Sales, focusing on sales performance, returns, and shipping costs by region, customer segment, and product category, with data cleaning, outlier detection, and dynamic filters.
+- Superstore Sales Analysis in Power BI: Built a business intelligence solution to analyze sales and shipping trends, creating calculated measures and visual reports to support data-driven decision-making.
 
 📫 LinkedIn: https://www.linkedin.com/in/muniquegt/
 
